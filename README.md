@@ -75,12 +75,12 @@
 
 ### 🧠 Problem Solving
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<a href="https://www.geeksforgeeks.org/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
@@ -108,12 +108,6 @@
 
 ---
 
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh-Parashari608&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -123,27 +117,4 @@
 
 </div>
 
-<!--
-  OPTIONAL: once you've added .github/workflows/metrics.yml (see setup steps),
-  uncomment the block below. It shows a self-generated stats/streak/trophy
-  image hosted in your own repo, so it never depends on an external server.
 
-### 🔒 Self-Hosted Metrics (always reliable)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh-Parashari608/Rishabh-Parashari608/main/metrics.svg" />
-</div>
-
----
--->
-
-
----
-## 🏙️ 3D Contribution City
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-
-</div>
-
-> 🌃 A visual representation of my GitHub contribution journey.
