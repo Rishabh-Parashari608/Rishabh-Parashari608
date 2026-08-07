@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Rishabh-Parashari608" target="_blank">
+  <a href="https://github.com/rishabha-parashari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -91,9 +91,9 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rishabh-Parashari608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rishabha-parashari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-  <img height="180" src="https://streak-stats.demolab.com/?user=Rishabh-Parashari608&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=rishabha-parashari&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Parashari608&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabha-parashari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-Parashari608&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabha-parashari&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
