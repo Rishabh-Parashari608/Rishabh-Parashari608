@@ -11,44 +11,100 @@
 
 ---
 
-### 👨‍💻 About Me
-Aspiring developer, always learning and building.
-- 🔭 Currently working on **PABL-2** and other Python-based projects
-- 🌱 Learning new tools and sharpening my programming fundamentals
-- 💻 Comfortable with **Python** and exploring other languages/frameworks
-- 📫 Reach me at **your-email@example.com**
-- 📍 India
+## 👨‍💻 About Me
+
+> 🚀 **Aspiring Software Engineer** passionate about building real-world products, solving problems, and continuously improving my technical skills.
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **IILM University, Greater Noida** — *Class of 2028*
+- 💻 Aspiring **Full-Stack Developer** who enjoys turning ideas into real, deployed products
+- 🧠 Strengthening my **Data Structures & Algorithms** skills using **Java**
+- 🏆 Regularly practicing problem-solving on **LeetCode** and **GeeksforGeeks**
+- 🌱 Continuously learning new technologies and strengthening my **programming fundamentals**
+- 🏗️ Currently exploring **System Design** and **Computer Networking**
+- 💡 Interested in **Software Engineering, Web Development & scalable applications**
+- 🔧 Building projects to turn concepts into **practical, production-ready solutions**
+- 🤝 Open to **internships, collaborations, and opportunities to learn and build**
+- 📫 Feel free to **connect with me** for interesting projects or opportunities
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
 <div align="left">
-  <a href="mailto:your-email@example.com">
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <a href="https://github.com/Rishabh-Parashari608" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+
 </div>
+
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,html,css,git,github,vscode" />
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+### 🧠 Problem Solving
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rishabh-Parashari608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=Rishabh-Parashari608&theme=tokyonight&hide_border=true" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Parashari608&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rishabh-Parashari608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+  <img height="180" src="https://streak-stats.demolab.com/?user=Rishabh-Parashari608&theme=tokyonight&hide_border=true" />
+
 </div>
+
+<br>
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Parashari608&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
 
 ---
 
@@ -58,6 +114,14 @@ Aspiring developer, always learning and building.
 </div>
 
 ---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-Parashari608&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 <!--
   OPTIONAL: once you've added .github/workflows/metrics.yml (see setup steps),
@@ -72,21 +136,14 @@ Aspiring developer, always learning and building.
 ---
 -->
 
-### 📌 Featured Projects
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Pall-A](https://github.com/Rishabh-Parashari608/Pall-A) | Project — add a short description here | — |
-| [PABL-2](https://github.com/Rishabh-Parashari608/PABL-2) | Project — add a short description here | Python |
 
 ---
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-Parashari608&theme=tokyo-night&hide_border=true" />
-</div>
-
----
+## 🏙️ 3D Contribution City
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh-Parashari608&label=Profile+Views&color=6C63FF&style=flat" />
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+
 </div>
+
+> 🌃 A visual representation of my GitHub contribution journey.
