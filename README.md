@@ -57,6 +57,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Rishabh-Parashari608/Rishabh-Parashari608/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🛠️ Languages & Tools
 
 <div align="left">
